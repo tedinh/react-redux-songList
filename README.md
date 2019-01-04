@@ -17,4 +17,4 @@
 
 4. Import the specific action you're going to use
 
-5. Export mapStateToProps and any actions needed
+5. Export mapStateToProps and any actions needed (dispatcher)
